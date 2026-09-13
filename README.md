@@ -1,6 +1,6 @@
 <p align="center"><img src="thumbnail.png" width="220"></p>
 
-<h1 align="center">Sephora Sniper v3.0</h1>
+<h1 align="center">Sephora Sniper v3.1</h1>
 <p align="center">Made with love by rickyita</p>
 <p align="center">
   <img src="https://hits.sh/github.com/astralisdev/Sephora-sniper-releases.svg?label=visits&color=ff2d55" alt="visits">
@@ -15,7 +15,7 @@ Discord alerts the moment your product is back in stock online or at your Sephor
 | Mac with Apple chip (M1/M2/M3/M4) | [SephoraSniper-mac-apple-silicon](https://github.com/astralisdev/Sephora-sniper-releases/releases/latest/download/SephoraSniper-mac-apple-silicon) |
 | Mac with Intel chip | [SephoraSniper-mac-intel](https://github.com/astralisdev/Sephora-sniper-releases/releases/latest/download/SephoraSniper-mac-intel) |
 | Windows | [SephoraSniper-windows.exe](https://github.com/astralisdev/Sephora-sniper-releases/releases/latest/download/SephoraSniper-windows.exe) |
-| Everything in one folder | [Sephora.Sniper.v3.0.zip](https://github.com/astralisdev/Sephora-sniper-releases/releases/latest/download/Sephora.Sniper.v3.0.zip) |
+| Everything in one folder | [Sephora-Sniper.zip](https://github.com/astralisdev/Sephora-sniper-releases/releases/latest/download/Sephora-Sniper.zip) |
 
 Not sure which Mac you have? Apple menu → About This Mac → "Chip" or "Processor".
 
