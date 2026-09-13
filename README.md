@@ -3,7 +3,6 @@
 <h1 align="center">Sephora Sniper v3.0</h1>
 <p align="center">Made with love by rickyita</p>
 <p align="center">
-  <a href="https://github.com/astralisdev/Sephora-sniper-releases/releases/latest"><img src="https://img.shields.io/github/downloads/astralisdev/Sephora-sniper-releases/total?label=downloads&color=2ecc71" alt="downloads"></a>
   <img src="https://hits.sh/github.com/astralisdev/Sephora-sniper-releases.svg?label=visits&color=ff2d55" alt="visits">
 </p>
 
