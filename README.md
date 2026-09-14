@@ -1,6 +1,6 @@
 <p align="center"><img src="thumbnail.png" width="220"></p>
 
-<h1 align="center">Sephora Sniper v3.1</h1>
+<h1 align="center">Sephora Sniper v3.2</h1>
 <p align="center">Made with love by rickyita</p>
 <p align="center">
   <img src="https://hits.sh/github.com/astralisdev/Sephora-sniper-releases.svg?label=visits&color=ff2d55" alt="visits">
@@ -12,28 +12,20 @@ Discord alerts the moment your product is back in stock online or at your Sephor
 
 | Computer | File |
 |---|---|
-| Mac with Apple chip (M1/M2/M3/M4) | [SephoraSniper-mac-apple-silicon](https://github.com/astralisdev/Sephora-sniper-releases/releases/latest/download/SephoraSniper-mac-apple-silicon) |
-| Mac with Intel chip | [SephoraSniper-mac-intel](https://github.com/astralisdev/Sephora-sniper-releases/releases/latest/download/SephoraSniper-mac-intel) |
+| Mac (any: Apple M1–M5 or Intel) | [Sephora-Sniper.dmg](https://github.com/astralisdev/Sephora-sniper-releases/releases/latest/download/Sephora-Sniper.dmg) |
 | Windows | [SephoraSniper-windows.exe](https://github.com/astralisdev/Sephora-sniper-releases/releases/latest/download/SephoraSniper-windows.exe) |
 | Everything in one folder | [Sephora-Sniper.zip](https://github.com/astralisdev/Sephora-sniper-releases/releases/latest/download/Sephora-Sniper.zip) |
-
-Not sure which Mac you have? Apple menu → About This Mac → "Chip" or "Processor".
-
-Put the file in its own folder: your settings are saved next to it.
 
 ## First launch
 
 **Mac**
-1. Double-click the file. macOS blocks it ("cannot be verified").
-2. Open System Settings → Privacy & Security, scroll down, click **Open Anyway**, confirm.
-3. If it still won't open, run this in Terminal from the file's folder:
-   ```
-   xattr -d com.apple.quarantine SephoraSniper-mac-*
-   chmod +x SephoraSniper-mac-*
-   ```
+1. Open `Sephora-Sniper.dmg` and drag **Sephora Sniper** into **Applications**.
+2. Open Sephora Sniper from Applications. macOS blocks it the first time ("cannot be verified"): click **Done**.
+3. Open System Settings → Privacy & Security, scroll down, click **Open Anyway**, confirm.
+4. It opens in a Terminal window. Your settings are kept when you install a new version.
 
 **Windows**
-Double-click `SephoraSniper-windows.exe`. If "Windows protected your PC" shows up, click **More info → Run anyway**. Use Windows Terminal so the emojis display.
+Double-click `SephoraSniper-windows.exe`. If "Windows protected your PC" shows up, click **More info → Run anyway**. Keep the file in its own folder: your settings are saved next to it. Use Windows Terminal so the emojis display.
 
 ## Setup
 
